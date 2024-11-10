@@ -1,10 +1,3 @@
-# prod_name = ''
-# prod_name = input("Enter Prod Name ")
-# if not prod_name:
-#     print("No product name entered")
-# else:
-#     print (prod_name)   
-iqty = 1
-iunitp = 90 
-itotp = iqty * iunitp
-print(itotp)
+import random
+r1 = random.randint(1000, 9999)
+print("Random number between 0 and 10 is % s" % (r1))
