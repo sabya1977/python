@@ -1,0 +1,16 @@
+1. create a cond environment and install python and basic packages:
+conda create --name basicpy python
+
+2. activate conda environment:
+conda activate basicpy
+
+3. Press CTRL+SHIFT+P and select Python:Interpreter and select your conda env.
+
+4. To deactivate the current conda environment:
+conda deactivate
+
+5. remove a conda environment called demo:
+conda end remove --name demo
+
+6. to list existing conda environments:
+conda env list
