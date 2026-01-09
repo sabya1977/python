@@ -72,6 +72,8 @@ print(lstr)
 str = 'Sabyasachi,Mitra,48,Hyderabad'
 lstr = str.split(',')
 print(lstr)
+for i in range(len(lstr)):
+    print (lstr[i])
 #
 #Justifying and Centering Text
 name = 'Sabyasachi Mitra'
