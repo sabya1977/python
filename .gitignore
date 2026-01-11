@@ -6,7 +6,7 @@ __pycache__/
 *.py[cod]
 
 # uv cache (optional, if created)
-.uv/
+# .uv/
 
 # PyCharm
 .idea/
