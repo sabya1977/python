@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/regexplib/__init__.py
+src/regexplib/regexpmod.py
+src/regexplib.egg-info/PKG-INFO
+src/regexplib.egg-info/SOURCES.txt
+src/regexplib.egg-info/dependency_links.txt
+src/regexplib.egg-info/top_level.txt
