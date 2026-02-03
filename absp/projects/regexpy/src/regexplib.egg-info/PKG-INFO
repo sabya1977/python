@@ -1,6 +1,0 @@
-Metadata-Version: 2.4
-Name: regexplib
-Version: 0.1.0
-Summary: My custom regex utility library
-Requires-Python: >=3.13
-Description-Content-Type: text/markdown
